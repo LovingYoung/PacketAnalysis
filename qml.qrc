@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>main.js</file>
+        <file>selectDev.qml</file>
+        <file>catchTab.qml</file>
+    </qresource>
+</RCC>
